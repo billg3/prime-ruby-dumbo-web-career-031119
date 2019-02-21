@@ -9,5 +9,6 @@ def prime(int)
     
   end 
   
- (2...int).each do 
+ (2...int).each do |div|
+   
   
