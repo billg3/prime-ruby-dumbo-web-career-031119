@@ -15,4 +15,7 @@ def prime(int)
  end 
  
  check 
+ 
+ end 
+ 
   
