@@ -10,5 +10,5 @@ def prime(int)
   end 
   
  (2...int).each do |div|
-   return false if int % int 
+   return false if int % div == 0 
   
