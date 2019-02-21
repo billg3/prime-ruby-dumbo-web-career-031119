@@ -9,5 +9,5 @@ def prime(int)
     
   end 
   
- ( 2...int )
+ (2...int).each do 
   
